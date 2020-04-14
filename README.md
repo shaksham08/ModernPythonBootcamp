@@ -1,5 +1,6 @@
 # ModernPythonBootcamp
 <h1> Section 01</h1>
+
 1. Numbers
 2. Variables and assignment
 3. Strings
