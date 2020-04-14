@@ -1,5 +1,5 @@
 # ModernPythonBootcamp
-<h1> Section 00</h1>
+<h1> Section 00 - Python Object and Datastructures basics</h1>
 
 1. Numbers
 2. Variables and assignment
@@ -10,3 +10,12 @@
 7. Tuples
 8. Sets and booleans
 9. Files
+
+<h1> Section 01 - Python comparison operators </h1>
+
+1. Comparison operator
+2. Chained comparison operator
+
+
+
+
