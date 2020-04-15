@@ -16,6 +16,14 @@
 1. Comparison operator
 2. Chained comparison operator
 
+<h1> Section 02 - Python Statements </h1>
+
+1. If else
+2. for loop , while loop,list comprehension
+
+
+
+
 
 
 
